@@ -1,4 +1,4 @@
-# java_stockManagement
+# java_stockManagement Desktop Application
 A very basic stock management application.(Desktop)
 
 -MySQL used for database management,
